@@ -1,5 +1,7 @@
 # Basic music player
 
+<img src="1.png" alt="banner">
+
 This is a simple mp3 player designed with Python
  <br>
 Click [learn](https://simvic.xyz/learn/) to find out some more interesting topics worth spending time on.
